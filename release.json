@@ -14,7 +14,7 @@
       "label": "Windows x64",
       "sub": "NSIS installer, per-user install — the full app, no store required.",
       "size": "113.7 mb",
-      "sha256": "c25b6778e15e5b054ba61936350e34022019d48f328748c9ce117fcfed9e5a4a",
+      "sha256": "25b0ccf32b00b5853cbada3f6554c9cb0c8b18ca24bab5ecb368c10598957811",
       "href": "https://github.com/aditya-ig10/context-fence-releases/releases/download/v1.1.9-a/Context-Fence-Setup-1.1.9-a-x64.exe",
       "unsigned": "unsigned · expect a SmartScreen prompt — more info → run anyway, then verify the sha256."
     },
