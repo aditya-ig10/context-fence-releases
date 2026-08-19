@@ -3,20 +3,20 @@
   "released": "aug 19, 2026",
   "platforms": {
     "mac": {
-      "label": "macOS · universal dmg",
-      "sub": "Universal dmg for Intel and Apple silicon — drag to /Applications.",
+      "label": "macOS \u00b7 universal dmg",
+      "sub": "Universal dmg for Intel and Apple silicon \u2014 drag to /Applications.",
       "size": "263.9 mb",
       "sha256": "f94fc8104af80e3aa274679e3a9cc926970d0ca51b2afad4acd27d0e03b02dc8",
       "href": "https://github.com/aditya-ig10/context-fence-releases/releases/download/v1.1.9-a/Context-Fence-1.1.9-a-universal.dmg",
-      "unsigned": "unsigned · ad-hoc signed, not notarized — if Gatekeeper blocks it, right-click → open."
+      "unsigned": "unsigned \u00b7 ad-hoc signed, not notarized \u2014 if Gatekeeper blocks it, right-click \u2192 open."
     },
     "windows": {
       "label": "Windows x64",
-      "sub": "NSIS installer, per-user install — the full app, no store required.",
+      "sub": "NSIS installer, per-user install \u2014 the full app, no store required.",
       "size": "113.8 mb",
       "sha256": "50627bed34c6e94e11c139d38406f1e067d10cba72638b5247c623e655da4232",
       "href": "https://github.com/aditya-ig10/context-fence-releases/releases/download/v1.1.9-a/Context-Fence-Setup-1.1.9-a-x64.exe",
-      "unsigned": "unsigned · expect a SmartScreen prompt — more info → run anyway, then verify the sha256."
+      "unsigned": "signed \u00b7 Authenticode (developer cert) \u2014 SmartScreen may still prompt until reputation builds"
     },
     "brew": {
       "install": "brew install aditya-ig10/context-fence/context-fence",
