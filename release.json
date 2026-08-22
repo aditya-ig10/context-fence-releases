@@ -21,6 +21,14 @@
     "brew": {
       "install": "brew install aditya-ig10/context-fence/context-fence",
       "update": "brew update && brew upgrade --cask context-fence"
+    },
+    "linux": {
+      "label": "Linux · x64",
+      "sub": "AppImage runs anywhere — chmod +x and launch, no install. Deb for Debian/Ubuntu, rpm for Fedora/RHEL.",
+      "size": "145.8 mb",
+      "sha256": "9c4806a29017ba5fc0cd98545c9719e7cb9974358b08fbec9a7a2c275fe065f9",
+      "href": "https://github.com/aditya-ig10/context-fence-releases/releases/download/v1.1.9-b/Context-Fence-1.1.9-x86_64.AppImage",
+      "unsigned": "unsigned · verify the sha256 after download"
     }
   }
 }
