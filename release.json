@@ -1,21 +1,21 @@
 {
-  "version": "1.1.9-b",
-  "released": "aug 22, 2026",
+  "version": "1.1.9-c",
+  "released": "aug 23, 2026",
   "platforms": {
     "mac": {
       "label": "macOS · universal dmg",
       "sub": "Universal dmg for Intel and Apple silicon — drag to /Applications.",
-      "size": "263.8 mb",
-      "sha256": "3172c3d31edea10dba6f945e923d6ea72eb2e5ecf07712dca93233c7cd2d5e5e",
-      "href": "https://github.com/aditya-ig10/context-fence-releases/releases/download/v1.1.9-b/Context-Fence-1.1.9-b-universal.dmg",
+      "size": "264.7 mb",
+      "sha256": "c1105f72954e1af0dd395dec97e18bcd6c898c969d6ea070d1b63591eca481eb",
+      "href": "https://github.com/aditya-ig10/context-fence-releases/releases/download/v1.1.9-c/Context-Fence-1.1.9-c-universal.dmg",
       "unsigned": "unsigned · ad-hoc signed, not notarized — if Gatekeeper blocks it, right-click → open."
     },
     "windows": {
       "label": "Windows x64",
       "sub": "NSIS installer, per-user install — the full app, no store required.",
       "size": "113.8 mb",
-      "sha256": "86c6fe60e8050382cc0688047cab9f54e57c83c049eb117aef459721f69fabed",
-      "href": "https://github.com/aditya-ig10/context-fence-releases/releases/download/v1.1.9-b/Context-Fence-Setup-1.1.9-b-x64.exe",
+      "sha256": "da18bc2def9dfef0c6edb1d0a70dffb714bbf02d9fc6d3d5be879cffe132535b",
+      "href": "https://github.com/aditya-ig10/context-fence-releases/releases/download/v1.1.9-c/Context-Fence-Setup-1.1.9-c-x64.exe",
       "unsigned": "signed · Authenticode (developer cert) — SmartScreen may still prompt until reputation builds"
     },
     "brew": {
