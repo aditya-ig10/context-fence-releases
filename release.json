@@ -25,9 +25,9 @@
     "linux": {
       "label": "Linux · x64",
       "sub": "AppImage runs anywhere — chmod +x and launch, no install. Deb for Debian/Ubuntu, rpm for Fedora/RHEL.",
-      "size": "145.8 mb",
-      "sha256": "a39c8f35849317dd420165a4f3e5ffc06359d467316c4f48c4e667bb1f1f4c90",
-      "href": "https://github.com/aditya-ig10/context-fence-releases/releases/download/v1.1.9-c/Context-Fence-1.1.9-x86_64.AppImage",
+      "size": "146.4 mb",
+      "sha256": "7675f191a091da55f03c2ded48ee092a959445d1dada47234ae756c41580f575",
+      "href": "https://github.com/aditya-ig10/context-fence-releases/releases/download/v2.0.0/Context-Fence-2.0.0-x86_64.AppImage",
       "unsigned": "unsigned · verify the sha256 after download"
     }
   }
