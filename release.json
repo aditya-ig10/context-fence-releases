@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "released": "oct 4, 2026",
+  "released": "oct 3, 2026",
   "platforms": {
     "mac": {
       "label": "macOS · universal dmg",
@@ -14,7 +14,7 @@
       "label": "Windows x64",
       "sub": "NSIS installer, per-user install — the full app, no store required.",
       "size": "114.4 mb",
-      "sha256": "f176ce67bfbd07e9de2c782fdb4a40b913dbd0a9c65d19a98d7606fb68740ccc",
+      "sha256": "5fef5d18529119228baeeb44918b0a39e5783013f3b3018e02544822974cfa32",
       "href": "https://github.com/aditya-ig10/context-fence-releases/releases/download/v2.0.0/Context-Fence-Setup-2.0.0-x64.exe",
       "unsigned": "signed · Authenticode (developer cert) — SmartScreen may still prompt until reputation builds"
     },
@@ -26,7 +26,7 @@
       "label": "Linux · x64",
       "sub": "AppImage runs anywhere — chmod +x and launch, no install. Deb for Debian/Ubuntu, rpm for Fedora/RHEL.",
       "size": "146.4 mb",
-      "sha256": "7675f191a091da55f03c2ded48ee092a959445d1dada47234ae756c41580f575",
+      "sha256": "6ab68c9dcfca98ddb2905c2d195403338b2d39d61ea1b8b8cd02230f95df78db",
       "href": "https://github.com/aditya-ig10/context-fence-releases/releases/download/v2.0.0/Context-Fence-2.0.0-x86_64.AppImage",
       "unsigned": "unsigned · verify the sha256 after download"
     }
